@@ -1,0 +1,24 @@
+{
+  "name": "vue-stringify",
+  "version": "0.0.6",
+  "description": "A Helper for JSON.stringify ( and Parse )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RUSHt/vue-stringify.git"
+  },
+  "keywords": [
+    "Vue",
+    "js",
+    "stringify"
+  ],
+  "author": "RUSHt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RUSHt/vue-stringify/issues"
+  },
+  "homepage": "https://github.com/RUSHt/vue-stringify#readme"
+}
