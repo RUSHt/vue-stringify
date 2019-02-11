@@ -1,6 +1,6 @@
 {
   "name": "vue-stringify",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "A Helper for JSON.stringify ( and Parse )",
   "main": "index.js",
   "scripts": {
