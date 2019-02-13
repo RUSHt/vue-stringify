@@ -29,6 +29,6 @@ and get
 
 ```Stringify.parse(Obj)``` will JSON.stringify and JSON.parse an Object, it is then cloned, and has no setters / getters so is more easily explored in console.
 
-```Stringify.log(Obj)``` will log to console a JSON.stringified and JSON.pased Object.
+```Stringify.log(Obj)``` will log to console a JSON.stringified and JSON.parsed Object.
 
 Enjoy.
